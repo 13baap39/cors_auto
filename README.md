@@ -1,6 +1,6 @@
 # cors_auto
 ### A tool to look for CORS vulnerability 
-# Instalation 
+# Installation 
 clone the repo then do **chmod +x cors_auto.sh**
 # Usage
 Options:
